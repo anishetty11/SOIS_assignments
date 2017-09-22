@@ -1,0 +1,5 @@
+The above code defines a function "make_inrementor" that creates an anonymous function on the fly and returns it.
+ The returned function increments its argument by the value that was specified when it was created. 
+You can now create multiple different incrementor functions and assign them to variables,
+ then use them independent from each other. As the last statement demonstrates, 
+you don't anymore. 
